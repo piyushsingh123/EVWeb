@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <testData name="user">piyushkishore@yahoo.com</testData>
+  <testData name="password">quikr@123</testData>
+  <testData name="from">Bangalore, IN – Kempegowda International Airport (BLR)</testData>
+  <testData name="to">New Delhi, IN - Indira Gandhi Airport (DEL)</testData>
+  <testData name="date">Thu, 28 Feb, 2019</testData>
+  <testData name="location">Domlur, Bangalore</testData>
+</data>
